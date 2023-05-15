@@ -1,0 +1,7 @@
+setup.py
+myFunction.egg-info/PKG-INFO
+myFunction.egg-info/SOURCES.txt
+myFunction.egg-info/dependency_links.txt
+myFunction.egg-info/top_level.txt
+package/__init__.py
+package/function.py
